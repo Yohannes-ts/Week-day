@@ -1,5 +1,5 @@
 let today = "wednsday";
-if (today === monday){
+if (today === 'monday'){
     console.log("today is monday")
 }
     else if(today=== 'tuesday'){
